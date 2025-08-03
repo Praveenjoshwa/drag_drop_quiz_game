@@ -2,7 +2,7 @@
 
 A fun, interactive quiz game built with HTML, CSS, and JavaScript — featuring a drag-and-drop interface. Users drag the correct answer into a drop zone, making learning engaging and visually intuitive.
 
-![Screenshot](screenshot.png) <!-- Add a screenshot of your game -->
+
 
 ## 🚀 Live Demo
 
@@ -37,14 +37,3 @@ Check out the live version here:
 
 ---
 
-## 🔧 Installation & Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/Praveenjoshwa/drag_drop_quiz_game.git
-
-# Navigate into the project directory
-cd drag_drop_quiz_game
-
-# Open in browser
-open index.html  # or just double-click index.html
